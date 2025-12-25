@@ -1,0 +1,18 @@
+*{
+  margin:0;padding:0;
+}/*universal selector are usually used for defining margin and padding */
+
+#box1,#box2,#box3{
+  height: 500px;
+  width: 500px
+}
+
+#box1 {
+  background-color: red;
+}
+#box2 {
+  background-color: aqua;
+}
+#box3 {
+  background-color: yellowgreen;
+}

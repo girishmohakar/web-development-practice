@@ -1,0 +1,16 @@
+div{
+  color: red;
+}
+#heading{
+  color: yellow;
+}
+.paragraph{
+  color: green;
+}
+#first,#second{
+  color: darkseagreen;
+}
+*{
+  font-size:x-large;
+}
+/*this is universal selector */

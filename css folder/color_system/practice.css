@@ -1,0 +1,24 @@
+#rgb{
+  color: rgb(255,0,0);
+}
+#hex{
+  color: #ff25c5;
+}
+#alpha_channel1{
+  color: rgb(255,255,0,0)
+}
+#alpha_channel2{
+  color: rgb(255,255,0,0.2)
+}
+#alpha_channel3{
+  color: rgb(255,255,0,0.4)
+}
+#alpha_channel4{
+  color: rgb(255,255,0,0.6)
+}
+#alpha_channel5{
+  color: rgb(255,255,0.8)
+}
+#alpha_channel6{
+  color: rgb(255,255,0,1)
+}

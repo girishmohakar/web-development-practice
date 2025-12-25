@@ -1,0 +1,84 @@
+ #align_left{
+      text-align:left;
+      height: 50px; width: 100;
+      background-color:rgb(250,0,0,0.3)
+    }
+   #align_right{
+      text-align:right;
+      height: 50px; width: 100;
+      background-color:rgb(0,250,0,0.1)
+    }
+    #align_centre{
+      text-align:center;
+      height: 50px; width: 100;
+      background-color:rgb(0,0,250,0.1)
+    }
+    #underline{
+      text-decoration: underline;
+      height: 50px
+    }
+    #overline{
+      text-decoration: overline;
+      height: 50px
+    }
+    #line_through{
+      text-decoration: line;
+      height: 50px
+    }
+    #dashed{
+      text-decoration:underline;
+      text-decoration-style: dashed;
+      height: 50px
+    }
+    #solid{
+      text-decoration:underline;
+      text-decoration-style: solid;
+      height: 50px;
+    }
+    #wavy{
+      text-decoration:underline;
+      text-decoration-style: wavy;
+      height: 50px;
+    }
+    #double{
+      text-decoration:underline;
+      text-decoration-style: double;
+      height: 50px;
+    }
+    
+    #line_color{
+      text-decoration:underline;
+      text-decoration-color: red ;
+      height: 50px;
+    }
+    #RedWavyUnderline{
+      text-decoration: underline;
+      text-decoration-style:wavy;
+      text-decoration-color:red;
+      height:50px;
+    }
+    #uppercase{
+      text-transform:uppercase;
+      height:50px;
+    }
+    #lowercase{
+      text-transform:lowercase;
+      height:50px
+    }
+    #capitalise{
+      text-transform:capitalize;
+      height:50px
+    }
+    #node{
+      text-transform:none;
+      height:50px
+    }
+    #line_width1{
+      line-height:10px;
+    }
+    #line_width2{
+      line-height:50px;
+    }
+    #line_width3{
+      line-height:0px;
+    }
