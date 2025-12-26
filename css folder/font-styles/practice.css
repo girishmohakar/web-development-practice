@@ -1,0 +1,16 @@
+
+    #Size{
+      font-size:50px;
+    }
+    #weigt{
+      font-weight:700;
+    }
+    #italic{
+      font-style:italic;
+    }
+    #oblique{
+      font-style:oblique;
+    }
+    #normal{
+      font-style:normal;
+    }
